@@ -20,8 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/46bWLhc' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/46bWLhc"  ><a href="//imgur.com/a/46bWLhc">Sea Monster CrowdFunding</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
